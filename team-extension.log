@@ -1,0 +1,23 @@
+2020-01-19T17:05:37.999Z - info:   [17064] *** FOLDER: c:\Repos\tamasveiland.github.io ***
+2020-01-19T17:05:38.000Z - info:   [17064] AzureReposVSCode/1.161.0 (VSCode 1.39.0; Windows_NT 10.0.18363; Node 10.11.0)
+2020-01-19T17:05:38.000Z - debug:  [17064] Looking for an External Context at c:\Repos\tamasveiland.github.io
+2020-01-19T17:05:38.000Z - debug:  [17064] No External Context at c:\Repos\tamasveiland.github.io
+2020-01-19T17:05:38.005Z - debug:  [17064] Looking for TFVC repository at c:\Repos\tamasveiland.github.io
+2020-01-19T17:05:38.005Z - debug:  [17064] TFVC Creating Tfvc object with localPath='undefined'
+2020-01-19T17:05:38.006Z - debug:  [17064] Using TFS proxy: 
+2020-01-19T17:05:38.006Z - debug:  [17064] TFVC Retrieved from settings; localPath='c:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2020-01-19T17:05:38.006Z - debug:  [17064] TFVC Repository created with repositoryRootFolder='c:\Repos\tamasveiland.github.io'
+2020-01-19T17:05:38.007Z - debug:  [17064] TFVC Repository.CheckVersion
+2020-01-19T17:05:38.007Z - debug:  [17064] TFVC: tf add -noprompt -?
+2020-01-19T17:05:38.021Z - debug:  [17064] TFVC: spawned new process (duration: 13ms)
+2020-01-19T17:05:38.028Z - debug:  [17064] TFVC: spawned new process (duration: 6ms)
+2020-01-19T17:05:39.155Z - debug:  [17064] TFVC: add exit code: 0 (duration: 1147ms)
+2020-01-19T17:05:39.156Z - debug:  [17064] TFVC Minimum required version: 14.102.0
+2020-01-19T17:05:39.156Z - debug:  [17064] TFVC (TF.exe, TF.cmd) version: 15.129.29201.2
+2020-01-19T17:05:39.156Z - debug:  [17064] TFVC Repository.FindWorkspace with localPath='c:\Repos\tamasveiland.github.io'
+2020-01-19T17:05:39.157Z - debug:  [17064] TFVC: tf workfold -noprompt ********
+2020-01-19T17:05:39.163Z - debug:  [17064] TFVC: spawned new process (duration: 6ms)
+2020-01-19T17:05:39.460Z - debug:  [17064] TFVC: workfold exit code: 100 (duration: 302ms)
+2020-01-19T17:05:39.460Z - debug:  [17064] TFVC errors (via stderr): Unable to determine the source control server.
+
+2020-01-19T17:05:39.461Z - error:  [17064] Could not find a workspace with mappings (e.g., not a TFVC repository, wrong version of TF is being used).
