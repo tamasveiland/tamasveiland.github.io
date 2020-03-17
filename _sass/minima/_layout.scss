@@ -9,11 +9,13 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+
+  background-color:lightsteelblue ;
 }
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -124,6 +126,7 @@
 .site-footer {
   border-top: 1px solid $brand-color-light;
   padding: ($spacing-unit / 2) 0;
+  background-color: lightgray;
 }
 
 .footer-heading {
