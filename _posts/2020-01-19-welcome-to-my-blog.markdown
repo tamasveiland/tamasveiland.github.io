@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to my blog"
 date:   2020-01-19 17:49:20 +0100
-categories: blog
 ---
 First of all, let me introduce myself to you! My name is Tamas Veiland, a 38 year old software developer. 
 Yes, I always call myself a software developer, however I spend lots of time working on CI/CD pipelines and

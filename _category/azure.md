@@ -1,4 +1,4 @@
 ---
-tag: azure
+tag: Azure
 permalink: "/category/azure"
 ---

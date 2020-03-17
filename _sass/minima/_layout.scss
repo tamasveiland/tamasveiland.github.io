@@ -123,9 +123,7 @@
  */
 .site-footer {
   border-top: 1px solid $brand-color-light;
-  padding: $spacing-unit 0;
-  height: 10px;
-  max-height: 10px;
+  padding: ($spacing-unit / 2) 0;
 }
 
 .footer-heading {
@@ -149,9 +147,9 @@
   color: $brand-color;
 }
 
-.footer-col {
-  margin-bottom: $spacing-unit / 2;
-}
+// .footer-col {
+//   margin-bottom: $spacing-unit / 2;
+// }
 
 .footer-col-1,
 .footer-col-2 {

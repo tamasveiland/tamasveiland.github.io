@@ -1,4 +1,4 @@
 ---
-tag: devops
+tag: DevOps
 permalink: "/category/devops"
 ---

@@ -1,4 +1,4 @@
 ---
-tag: sharepoint
+tag: SharePoint
 permalink: "/category/sharepoint"
 ---
