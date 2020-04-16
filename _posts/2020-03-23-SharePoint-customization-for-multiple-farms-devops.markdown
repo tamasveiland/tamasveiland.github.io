@@ -12,3 +12,5 @@ This is the third part of the series that I started for describing SharePoint cu
 [Generate extensions for multiple SharePoint farms (modern experience)](../29/SharePoint-customization-for-multiple-farms-spfx.html)
 
 In this post, I'll elaborate on how to automate solution generation with Azure DevOps Services for multiple SharePoint farms.
+
+*Coming soon*
